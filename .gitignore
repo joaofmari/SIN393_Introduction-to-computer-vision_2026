@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets
+/data/flavia_toy/
+/data/flowers_toy/
+/data/flavia_toy.zip
+/data/flowers_toy.zip

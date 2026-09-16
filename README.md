@@ -5,7 +5,7 @@
 
 
 ## Creating the Conda Environment
-
+```
 $ conda create -n env-sin393-cpu-py312 python=3.12
 $ conda activate env-sin393-cpu-py312
 
@@ -15,10 +15,13 @@ $ pip install scikit-image
 $ pip install matplotlib
 $ pip install pandas
 $ pip install seaborn
+$ pip install ipywidgets
+```
 
 
+## Datasets
 
-
+** Extract the datasets from the ZIP files into the data folder. **
 
 
 
